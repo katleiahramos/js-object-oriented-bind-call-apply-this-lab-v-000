@@ -1,4 +1,4 @@
-//Your code here
+//ƒ (){ return {thisValue: this, arguments: Array.from(arguments)} }
 function justInvoke(fn) {
   return fn();
 };
