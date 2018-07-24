@@ -1,4 +1,4 @@
 //Your code here
-const justInvoke = function(fn()) {
-
-}
+function justInvoke(fn) {
+  return fn();
+};
